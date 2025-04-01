@@ -2,3 +2,55 @@ body {
     font-family: "Roboto", "Raleway" sans-serif;
     color: #434455;
 }
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+.nav-link {
+    color: #2e2f42;
+    font-weight: 500;
+    }
+.nav-link:hover, .nav-link:focus {
+    color: #404bbf;
+}
+.nav-link:active {
+    text-decoration: underline;
+}
+.contacts {
+    color: #434455;
+}
+.contacts:hover, .contacts:focus {
+    color: #404bbf;
+}
+.main-title {
+    font-weight: 700;
+    font-size: 56;
+    line-height: 1.07143;
+    color: #fff;
+}
+.order-btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #4d5ae5;
+    cursor: pointer;
+}
+.order-btn:hover, .order-btn:focus {
+    background-color: #404bbf;
+}
+.sect-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    color: #2e2f42;
+}
+.list-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+
