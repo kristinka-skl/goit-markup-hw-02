@@ -8,15 +8,16 @@ a {
 ul {
     list-style-type: none;
 }
+p {
+    line-height: 1.5;
+    font-size: 16;
+}
 .nav-link {
     color: #2e2f42;
     font-weight: 500;
     }
 .nav-link:hover, .nav-link:focus {
     color: #404bbf;
-}
-.nav-link:active {
-    text-decoration: underline;
 }
 .contacts {
     color: #434455;
@@ -53,4 +54,6 @@ ul {
     line-height: 1.2;
     color: #2e2f42;
 }
-
+.footer-text {
+    color: #f4f4fd;
+}
